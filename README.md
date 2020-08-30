@@ -1,2 +1,2 @@
 # meetlydb
-This served an API for analog meetly
+This serves an API for analog meetly

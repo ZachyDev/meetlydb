@@ -1,10 +1,10 @@
 {
     "meetings": [
         {
-            "date": "",
-            "type": "",
-            "department": "",
-            "attendees": ""
+            "date": "10/10/2019",
+            "type": "AGM",
+            "department": "Finance",
+            "attendees": "20"
         }
     ]
 }

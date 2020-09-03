@@ -4,25 +4,29 @@
             "date": "01/01/2020",
             "type": "agm",
             "department": "Finance",
-            "attendees": "20"
+            "attendees": "20",
+            "notes": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. In fugiat maxime quidem non provident magni quae, atque nobis officia iste."
         },
         {
             "date": "02/01/2020",
             "type": "weekly",
             "department": "frontend",
-            "attendees": "10"
+            "attendees": "10",
+             "notes": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. In fugiat maxime quidem non provident magni quae, atque nobis officia iste."
         },
         {
             "date": "03/01/2020",
             "type": "daily",
             "department": "backend",
-            "attendees": "12"
+            "attendees": "12",
+              "notes": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. In fugiat maxime quidem non provident magni quae, atque nobis officia iste."
         },
         {
             "date": "04/01/2020",
             "type": "monthly",
             "department": "design",
-            "attendees": "5"
+            "attendees": "5",
+              "notes": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. In fugiat maxime quidem non provident magni quae, atque nobis officia iste."
         }
     ]
 }
